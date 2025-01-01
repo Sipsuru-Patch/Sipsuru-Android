@@ -56,4 +56,4 @@
 > We're not publicly providing the patched applications' source and desktop binaries since there maybe a abusive use of the patched app. (Especially for illegal matters), so you can contact me with [email](yt2.dev.dragon@gmail.com) to request the desktop binaries..
 > Note that you'll need to prove that you're a student to aqquire valid license to run Patched software.
 
-<p align="center">© 2024 Sipsuru Patch. All rights for the patch are reserved.</p>
+<p align="center">© 2025 Sipsuru Patch. All rights for the patch are reserved.</p>
